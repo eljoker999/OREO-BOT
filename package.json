@@ -73,7 +73,7 @@
         "open": "^10.1.0",
         "perf_hooks": "^0.0.1",
         "pino": "^8.6.1",
-        "pdfkit": "^0.13.0",
+        "pdfkit": "^0.17.1",
         "pino-pretty": "^9.1.1",
         "qrcode": "^1.5.1",
         "qrcode-terminal": "^0.12.0",
